@@ -1,2 +1,2 @@
-# RS CV
+# RS School CV
 # Anton Liashkovich
